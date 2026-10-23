@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&vCenter=true&width=600&lines=Frontend+Developer+(React+%2B+TypeScript)" alt="Typing SVG" />
 </p>
 
-Разработчик интерфейсов и выпусник **НИТУ МИСИС** по направлению «Программная инженерия». 
+Разработчик интерфейсов и выпусник **НИТУ МИСИС** по направлению «Прикладная информатика». 
 Увлекаюсь веб-технологиями, оптимизацией UX, визуализацией данных и созданием контента.
 
 ---
